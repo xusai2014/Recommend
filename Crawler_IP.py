@@ -5,6 +5,7 @@ import time
 import bs4
 import lxml
 
+
 class crawl:
     def page_kuai(self):
         page = 1
